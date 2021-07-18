@@ -1519,4 +1519,8 @@
     <value>and all other platforms</value>
     <comment>This call site is reachable on: 'windows' 10.0.2000 and later, and all other platforms</comment>
   </data>
+  <data name="RecordShouldNotContainMutableCycleTitle" xml:space="preserve">
+    <value>Record should not contain mutable cycle</value>
+    <comment>(TODO: improve wording)</comment>
+  </data>
 </root>

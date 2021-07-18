@@ -1737,6 +1737,11 @@
         <target state="translated">必須為選擇性欄位提供還原序列化方法</target>
         <note />
       </trans-unit>
+      <trans-unit id="RecordShouldNotContainMutableCycleTitle">
+        <source>Record should not contain mutable cycle</source>
+        <target state="new">Record should not contain mutable cycle</target>
+        <note>(TODO: improve wording)</note>
+      </trans-unit>
       <trans-unit id="RemoveRedundantCall">
         <source>Remove redundant call</source>
         <target state="translated">移除冗餘的呼叫</target>

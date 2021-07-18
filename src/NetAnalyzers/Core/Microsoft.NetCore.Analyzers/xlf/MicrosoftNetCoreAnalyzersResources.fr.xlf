@@ -1737,6 +1737,11 @@
         <target state="translated">Spécifiez des méthodes de désérialisation pour les champs facultatifs</target>
         <note />
       </trans-unit>
+      <trans-unit id="RecordShouldNotContainMutableCycleTitle">
+        <source>Record should not contain mutable cycle</source>
+        <target state="new">Record should not contain mutable cycle</target>
+        <note>(TODO: improve wording)</note>
+      </trans-unit>
       <trans-unit id="RemoveRedundantCall">
         <source>Remove redundant call</source>
         <target state="translated">Supprimer un appel redondant</target>
